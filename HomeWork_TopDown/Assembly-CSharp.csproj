@@ -63,6 +63,7 @@
     <Compile Include="Assets\Scripts\BeHaviors\TopDownAimRotation.cs" />
     <Compile Include="Assets\Scripts\BeHaviors\TopDownMovement.cs" />
     <Compile Include="Assets\Scripts\Controllers\TopDownController.cs" />
+    <Compile Include="Assets\Scripts\Controllers\CameraController.cs" />
     <Compile Include="Assets\Scripts\Controllers\PlayerInputController.cs" />
   </ItemGroup>
   <ItemGroup>
