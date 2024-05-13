@@ -64,7 +64,10 @@
     <Compile Include="Assets\Scripts\BeHaviors\TopDownMovement.cs" />
     <Compile Include="Assets\Scripts\Controllers\TopDownController.cs" />
     <Compile Include="Assets\Scripts\Controllers\CameraController.cs" />
+    <Compile Include="Assets\Scripts\IntroScripts\NameButton.cs" />
     <Compile Include="Assets\Scripts\Controllers\PlayerInputController.cs" />
+    <Compile Include="Assets\Scripts\Text\ChangeText.cs" />
+    <Compile Include="Assets\Manager\GameManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

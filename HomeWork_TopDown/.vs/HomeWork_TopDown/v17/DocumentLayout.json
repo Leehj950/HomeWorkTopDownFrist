@@ -7,7 +7,19 @@
       "RelativeMoniker": "D:0:0:{9C926330-F5B3-469B-B376-5192E4CD4280}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C926330-F5B3-469B-B376-5192E4CD4280}|Assembly-CSharp.csproj|c:\\users\\lee\\4weekhomework\\homeworktopdown\\homework_topdown\\assets\\scripts\\controllers\\topdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C926330-F5B3-469B-B376-5192E4CD4280}|Assembly-CSharp.csproj|C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\assets\\scripts\\behaviors\\topdownaimrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C926330-F5B3-469B-B376-5192E4CD4280}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\behaviors\\topdownaimrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C926330-F5B3-469B-B376-5192E4CD4280}|Assembly-CSharp.csproj|C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\assets\\scripts\\behaviors\\topdownmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C926330-F5B3-469B-B376-5192E4CD4280}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\behaviors\\topdownmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C926330-F5B3-469B-B376-5192E4CD4280}|Assembly-CSharp.csproj|C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\assets\\scripts\\text\\changetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C926330-F5B3-469B-B376-5192E4CD4280}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\changetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C926330-F5B3-469B-B376-5192E4CD4280}|Assembly-CSharp.csproj|C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\assets\\scripts\\controllers\\topdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C926330-F5B3-469B-B376-5192E4CD4280}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\topdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,12 +27,12 @@
       "RelativeMoniker": "D:0:0:{9C926330-F5B3-469B-B376-5192E4CD4280}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\playerinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C926330-F5B3-469B-B376-5192E4CD4280}|Assembly-CSharp.csproj|C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\assets\\scripts\\behaviors\\topdownaimrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C926330-F5B3-469B-B376-5192E4CD4280}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\behaviors\\topdownaimrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C926330-F5B3-469B-B376-5192E4CD4280}|Assembly-CSharp.csproj|C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\assets\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C926330-F5B3-469B-B376-5192E4CD4280}|Assembly-CSharp.csproj|solutionrelative:assets\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C926330-F5B3-469B-B376-5192E4CD4280}|Assembly-CSharp.csproj|C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\assets\\scripts\\behaviors\\topdownmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C926330-F5B3-469B-B376-5192E4CD4280}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\behaviors\\topdownmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C926330-F5B3-469B-B376-5192E4CD4280}|Assembly-CSharp.csproj|C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\assets\\scripts\\introscripts\\namebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C926330-F5B3-469B-B376-5192E4CD4280}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\introscripts\\namebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,7 +56,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\CameraController.cs",
               "ToolTip": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Scripts\\Controllers\\CameraController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Controllers\\CameraController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T09:16:24.758Z",
               "EditorCaption": ""
@@ -52,42 +64,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TopDownAimRotation.cs",
-              "DocumentMoniker": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Scripts\\BeHaviors\\TopDownAimRotation.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BeHaviors\\TopDownAimRotation.cs",
-              "ToolTip": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Scripts\\BeHaviors\\TopDownAimRotation.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BeHaviors\\TopDownAimRotation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Title": "ChangeText.cs",
+              "DocumentMoniker": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Scripts\\Text\\ChangeText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\ChangeText.cs",
+              "ToolTip": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Scripts\\Text\\ChangeText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\ChangeText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T06:38:24.223Z"
+              "WhenOpened": "2024-05-13T12:39:59.252Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TopDownMovement.cs",
-              "DocumentMoniker": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Scripts\\BeHaviors\\TopDownMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BeHaviors\\TopDownMovement.cs",
-              "ToolTip": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Scripts\\BeHaviors\\TopDownMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BeHaviors\\TopDownMovement.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T06:18:36.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerInputController.cs",
-              "DocumentMoniker": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Scripts\\Controllers\\PlayerInputController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\PlayerInputController.cs",
-              "ToolTip": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Scripts\\Controllers\\PlayerInputController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Controllers\\PlayerInputController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T06:13:32.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "TopDownController.cs",
               "DocumentMoniker": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Scripts\\Controllers\\TopDownController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\TopDownController.cs",
@@ -95,8 +83,67 @@
               "RelativeToolTip": "Assets\\Scripts\\Controllers\\TopDownController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T06:10:30.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T06:10:30.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TopDownAimRotation.cs",
+              "DocumentMoniker": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Scripts\\BeHaviors\\TopDownAimRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BeHaviors\\TopDownAimRotation.cs",
+              "ToolTip": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Scripts\\BeHaviors\\TopDownAimRotation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BeHaviors\\TopDownAimRotation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:38:24.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TopDownMovement.cs",
+              "DocumentMoniker": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Scripts\\BeHaviors\\TopDownMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BeHaviors\\TopDownMovement.cs",
+              "ToolTip": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Scripts\\BeHaviors\\TopDownMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BeHaviors\\TopDownMovement.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAA+wCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:18:36.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerInputController.cs",
+              "DocumentMoniker": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Scripts\\Controllers\\PlayerInputController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\PlayerInputController.cs",
+              "ToolTip": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Scripts\\Controllers\\PlayerInputController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\PlayerInputController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:13:32.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Manager\\GameManager.cs",
+              "ToolTip": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Manager\\GameManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:21:01.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NameButton.cs",
+              "DocumentMoniker": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Scripts\\IntroScripts\\NameButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IntroScripts\\NameButton.cs",
+              "ToolTip": "C:\\Users\\lee\\4WeekHomeWork\\HomeWorkTopDown\\HomeWork_TopDown\\Assets\\Scripts\\IntroScripts\\NameButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IntroScripts\\NameButton.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:07:57.185Z"
             }
           ]
         }
