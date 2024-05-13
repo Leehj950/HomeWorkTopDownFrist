@@ -10,20 +10,14 @@ using UnityEngine.UI;
 public class ChangeText : MonoBehaviour
 {
     [SerializeField] Text nametext;
-    [SerializeField] Transform transform;
     private void Awake()
     {
         nametext = GetComponent<Text>();
-        transform = GetComponent<Transform>();
     }
-
-
-
     private void Update()
     {
         TextChange();
     }
-
     public void TextChange()
     {
         nametext.text = GameManager.instance.GetstirngName();

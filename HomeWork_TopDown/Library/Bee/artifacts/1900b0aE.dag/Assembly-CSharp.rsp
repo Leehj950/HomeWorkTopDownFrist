@@ -379,11 +379,13 @@
 "Assets/Manager/GameManager.cs"
 "Assets/Scripts/BeHaviors/TopDownAimRotation.cs"
 "Assets/Scripts/BeHaviors/TopDownMovement.cs"
+"Assets/Scripts/Button/NameButton.cs"
+"Assets/Scripts/Button/SkinButton.cs"
 "Assets/Scripts/Controllers/CameraController.cs"
 "Assets/Scripts/Controllers/PlayerInputController.cs"
 "Assets/Scripts/Controllers/TopDownController.cs"
-"Assets/Scripts/IntroScripts/NameButton.cs"
 "Assets/Scripts/Text/ChangeText.cs"
+"Assets/Scripts/Text/TimeText.cs"
 -langversion:9.0
 
 /deterministic
