@@ -378,6 +378,7 @@
 -analyzer:"C:/Program Files/Unity 2022.3.17f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/BeHaviors/TopDownAimRotation.cs"
 "Assets/Scripts/BeHaviors/TopDownMovement.cs"
+"Assets/Scripts/Controllers/CameraController.cs"
 "Assets/Scripts/Controllers/PlayerInputController.cs"
 "Assets/Scripts/Controllers/TopDownController.cs"
 -langversion:9.0
