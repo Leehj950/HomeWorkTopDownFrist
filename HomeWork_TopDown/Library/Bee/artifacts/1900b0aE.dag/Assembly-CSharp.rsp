@@ -389,6 +389,7 @@
 "Assets/Scripts/Controllers/TopDownController.cs"
 "Assets/Scripts/MainSeting.cs"
 "Assets/Scripts/Text/ChangeText.cs"
+"Assets/Scripts/Text/ChangeTextPanel.cs"
 "Assets/Scripts/Text/TimeText.cs"
 -langversion:9.0
 
