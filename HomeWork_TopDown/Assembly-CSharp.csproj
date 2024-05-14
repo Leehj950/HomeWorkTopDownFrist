@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\Button\SkinButton.cs" />
     <Compile Include="Assets\Scripts\Button\NameButton.cs" />
     <Compile Include="Assets\Scripts\Controllers\PlayerInputController.cs" />
+    <Compile Include="Assets\Scripts\Text\ChangeTextPanel.cs" />
     <Compile Include="Assets\Scripts\Text\ChangeText.cs" />
     <Compile Include="Assets\Manager\GameManager.cs" />
     <Compile Include="Assets\Scripts\Button\PanelButton.cs" />
