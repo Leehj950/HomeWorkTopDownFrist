@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\BeHaviors\TopDownAimRotation.cs" />
     <Compile Include="Assets\Scripts\Text\TimeText.cs" />
+    <Compile Include="Assets\Scripts\MainSeting.cs" />
     <Compile Include="Assets\Scripts\BeHaviors\TopDownMovement.cs" />
     <Compile Include="Assets\Scripts\Controllers\TopDownController.cs" />
     <Compile Include="Assets\Scripts\Controllers\CameraController.cs" />
@@ -70,6 +71,9 @@
     <Compile Include="Assets\Scripts\Controllers\PlayerInputController.cs" />
     <Compile Include="Assets\Scripts\Text\ChangeText.cs" />
     <Compile Include="Assets\Manager\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Button\PanelButton.cs" />
+    <Compile Include="Assets\Scripts\Controllers\TopDownAnimationController.cs" />
+    <Compile Include="Assets\Scripts\Controllers\AnimationController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

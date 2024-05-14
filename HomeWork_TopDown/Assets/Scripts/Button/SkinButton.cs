@@ -1,18 +1,31 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.UI;
 public class SkinButton : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+
+    [SerializeField] private GameObject player;
+    [SerializeField] private GameObject Panel;
+    private SpriteRenderer spriteRenderer;
+    private Image image;
+
+    private void Awake()
     {
-        
+       
+        spriteRenderer = player.GetComponentInChildren<SpriteRenderer>();
+        image = GetComponent<Image>();
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Start()
     {
-        
+        image.sprite = spriteRenderer.sprite;
+    }
+
+    public void OnBtnClick()
+    {
+        GameManager.instance.SetSpriteRenderer(image.sprite);
+        GameManager.instance.SetPlayerGameObject(player);
+        Destroy(Panel);
     }
 }

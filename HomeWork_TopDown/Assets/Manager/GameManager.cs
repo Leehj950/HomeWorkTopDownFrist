@@ -7,7 +7,9 @@ public class GameManager : MonoBehaviour
 {
 
     public static GameManager instance;
-
+    private Sprite sprite;
+    private string playerName;
+    private GameObject PlayergameObject;
     // Start is called before the first frame update
     private void Awake()
     {
@@ -15,22 +17,40 @@ public class GameManager : MonoBehaviour
         {
             instance = this;
         }
-        else
-        {
-            Destroy(gameObject);
-        }
     }
-    // Update is called once per frame
 
+    // Update is called once per frame
+    // 데이터 매니저에 대해서 만들면되지 않았을까?
     // 이름을 가져오기위한 함수.
-    private string playerName;
     public void SetPlayername(string name)
     {
         playerName = name;
     }
 
-    public string GetstirngName()
+    public string GetPlayerName()
     {
         return playerName;
     }
+    
+    public void SetSpriteRenderer (Sprite value)
+    {
+        this.sprite = value;
+    }
+
+    public Sprite GetSpriteRenderer()
+    {
+        return sprite; 
+    }
+
+    public void SetPlayerGameObject(GameObject gameObject)
+    {
+        PlayergameObject = gameObject;
+    }
+
+    public void PlayerCreate()
+    {
+        Instantiate(PlayergameObject);
+    }
+
+
 }

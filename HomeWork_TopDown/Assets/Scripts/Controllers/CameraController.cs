@@ -8,17 +8,16 @@ public class CameraController : MonoBehaviour
    
 
     
-    public GameObject player;
-    Transform objtransform;
-
+   [SerializeField] private GameObject player;
+  
     private void Start()
     {
-        objtransform = player.transform;
+        player = GameObject.FindWithTag("Player");
     }
 
     void Update()
     {
-        transform.position = new Vector3(objtransform.position.x, objtransform.position.y, objtransform.position.z);
+        transform.position = new Vector3(player.transform.position.x, player.transform.position.y, player.transform.position.z);
         transform.Translate(0, 0, -10);
     }
 }

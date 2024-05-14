@@ -20,7 +20,7 @@ public class ChangeText : MonoBehaviour
     }
     public void TextChange()
     {
-        nametext.text = GameManager.instance.GetstirngName();
+        nametext.text = GameManager.instance.GetPlayerName();
         this.transform.position = transform.position;
     }
 
